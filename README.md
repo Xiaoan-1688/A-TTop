@@ -80,8 +80,6 @@
                 <img src="https://cdn-icons-png.flaticon.com/512/6903/6903405.png" alt="地址图标">
                 <span>Hta Ward, Sudamma Road, Corner of Naykar Street, North Oaklapalar Township, Yangon</span>
             
-        </div>
-    </header>
 
     <main style="max-width: 1200px; margin: 30px auto; padding: 0 20px; background-color: white; border-radius: 8px; padding: 25px;">
         <h2 style="color: #0066cc; margin-top: 0;">关于我们</h2>
@@ -90,7 +88,7 @@
         </p>
         <h3 style="color: #0066cc; margin-top: 20px;">我们的业务范围</h3>
         <ul style="color: #333; line-height: 1.8; font-size: 16px; padding-left: 20px;">
-            <li>【业务1：如：进出口各类工业原材料与成品】</li>
+            <li>【业务1：A&T Top Co.,Ltdတွင် အလုပ်လုပ်ကိုင်နေသော ဝန်ထမ်းများ မိမိရရှိထားသော အကောင့်များအားအလုပ်ထွက်ပြီးသည်အထိ ထိုအကောင့်များ ပြဿနာတစ်စုံတစ်ရာရှိပါက ကိုယ်တိုင်တာဝန်ယူဖြေရှင်းပေးရမည်ကို ခံဝန်လတ်မှတ်ထိုးပါသည်။】</li>
             <li>【业务2：如：为本地企业提供商务咨询服务】</li>
             <li>【业务3：如：承接小型工程建设与项目管理】</li>
             <li>【业务4：可根据公司实际业务补充或删除】</li>
@@ -98,4 +96,3 @@
     </main>
 </body>
 </html>
-    
