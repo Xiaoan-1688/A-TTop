@@ -79,11 +79,7 @@
             <div class="contact-item">
                 <img src="https://cdn-icons-png.flaticon.com/512/6903/6903405.png" alt="地址图标">
                 <span>Hta Ward, Sudamma Road, Corner of Naykar Street, North Oaklapalar Township, Yangon</span>
-            </div>
-            <div class="contact-item">
-                <img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="邮箱图标">
-                <span>info@asiaworldcompany.com</span>
-            </div>
+            
         </div>
     </header>
 
